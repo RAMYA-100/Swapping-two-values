@@ -30,10 +30,10 @@ print("After swapping:")
 print("a =", a)
 print("b =", b)
 ```
-##OUTPUT:
-```
+OUTPUT:
+
 <img width="452" height="251" alt="image" src="https://github.com/user-attachments/assets/4f767f89-68cd-41f1-aab5-a82e02652aa4" />
-```
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
